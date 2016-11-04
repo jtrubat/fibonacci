@@ -1,0 +1,41 @@
+FIBONACCI(1)                  fibonacci man page                  FIBONACCI(1)
+
+
+
+NAME
+       fibonacci - manual page for fibonacci 1.0.0
+
+SYNOPSIS
+       fibonacci [ -0Cnhv ] [ n ]
+
+DESCRIPTION
+       fibonacci  displays the first n numbers of the Fibonacci sequence given
+       by the specified argument.
+
+OPTIONS
+       -0     Extend the sequence by the initial term 0.
+
+       -C     Display sequence in columnar form.
+
+       -n  --number
+              Display and number the sequence in columnar form.
+
+       -h  --help
+              Print this usage and exit.
+
+       -v  --version
+              Print version information and exit.
+
+AUTHOR
+       Written by Jordi Trubat.
+
+REPORTING BUGS
+       Report bugs to: <jtrubat@uoc.edu>
+
+COPYRIGHT
+       Copyright (C) 2016 Free Software Foundation, Inc. <http://fsf.org/>
+       This is free software with ABSOLUTELY NO WARRANTY.
+
+
+
+fibonacci 1.0.0                  November 2016                    FIBONACCI(1)
