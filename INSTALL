@@ -1,0 +1,7 @@
+Install fibonacci
+
+At the linux command line type:
+
+$ gcc -Wall fibonacci.c -o fibonacci -lgmp
+
+    
